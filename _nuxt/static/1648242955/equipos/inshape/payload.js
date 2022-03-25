@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/equipos/inshape", {data:[{_img:{"/_ipx/_/svg/logo-title.svg":"\u002F_nuxt\u002Fimage\u002F16bfb0.svg","/_ipx/_/img/equipos/INSHAPE.png":"\u002F_nuxt\u002Fimage\u002Fce59e0.png","/_ipx/_/movere-full.png":"\u002F_nuxt\u002Fimage\u002F79699e.png"}}],fetch:{},mutations:void 0});

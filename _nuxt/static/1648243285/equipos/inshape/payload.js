@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/equipos/inshape", {data:[{_img:{"/moovere/_ipx/_/svg/logo-title.svg":"\u002Fmoovere\u002F_nuxt\u002Fimage\u002F1c7e76.svg","/moovere/_ipx/_/img/equipos/INSHAPE.png":"\u002Fmoovere\u002F_nuxt\u002Fimage\u002F4b4482.png","/moovere/_ipx/_/movere-full.png":"\u002Fmoovere\u002F_nuxt\u002Fimage\u002Fedc9d8.png"}}],fetch:{},mutations:void 0});

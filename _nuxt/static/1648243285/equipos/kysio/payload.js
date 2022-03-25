@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/equipos/kysio", {data:[{_img:{"/moovere/_ipx/_/svg/logo-title.svg":"\u002Fmoovere\u002F_nuxt\u002Fimage\u002F1c7e76.svg","/moovere/_ipx/_/img/equipos/KSYIO.png":"\u002Fmoovere\u002F_nuxt\u002Fimage\u002F5b6042.png","/moovere/_ipx/_/movere-full.png":"\u002Fmoovere\u002F_nuxt\u002Fimage\u002Fedc9d8.png"}}],fetch:{},mutations:void 0});

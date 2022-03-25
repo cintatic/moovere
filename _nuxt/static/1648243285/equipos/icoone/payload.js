@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/equipos/icoone", {data:[{_img:{"/moovere/_ipx/_/svg/logo-title.svg":"\u002Fmoovere\u002F_nuxt\u002Fimage\u002F1c7e76.svg","/moovere/_ipx/_/img/equipos/ICOONE.PNG":"\u002Fmoovere\u002F_nuxt\u002Fimage\u002F09ee90.PNG","/moovere/_ipx/_/movere-full.png":"\u002Fmoovere\u002F_nuxt\u002Fimage\u002Fedc9d8.png"}}],fetch:{},mutations:void 0});
