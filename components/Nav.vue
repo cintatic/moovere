@@ -99,14 +99,14 @@
           <div v-if="isMenuOpen" class="absolute top-0 left-0 w-full">
             <div class="p-5 bg-gray-100 border rounded shadow-sm">
               <div class="flex items-center justify-between mb-4">
-                <div>
+                <div class="mx-auto">
                   <a
                     href="/"
                     aria-label="Company"
                     title="Company"
                     class="inline-flex items-center"
                   >
-                    <nuxt-img class="w-1/2" src="/svg/logo-title.svg" />
+                    <nuxt-img class="h-8" src="/svg/logo-title.svg" />
                   </a>
                 </div>
                 <div>
@@ -182,12 +182,12 @@
                     >
                   </li>
                   <li>
-                    <NuxtLogo
+                    <NuxtLink
                       to="/contacto"
                       aria-label="Contacto"
                       title="Contacto"
                       class="font-medium tracking-wide text-purple transition-colors duration-200 hover:text-deep-purple-accent-400"
-                      >Contáctanos</NuxtLogo
+                      >Contáctanos</NuxtLink
                     >
                   </li>
                 </ul>
@@ -261,7 +261,7 @@ export default {
   data() {
     return {
       isMenuOpen: false,
-    }
+    };
   },
-}
+};
 </script>
