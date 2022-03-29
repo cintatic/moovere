@@ -29,7 +29,7 @@
             <li>
               <a href="tel:5628348062">
                 <font-awesome-icon
-                  class="text-2xl ml-5 text-mint hover:text-red-500"
+                  class="text-2xl ml-5 text-purple hover:text-red-500"
                   :icon="['fas', 'phone']"
                 />
               </a>
@@ -39,7 +39,7 @@
                 href="https://api.whatsapp.com/send?phone=525532156875&text=%C2%A1Hola!%20Me%20gustar%C3%ADa%20cotizar%20un%20equipo.%20"
               >
                 <font-awesome-icon
-                  class="text-3xl text-mint hover:text-red-500"
+                  class="text-3xl text-purple hover:text-red-500"
                   :icon="['fab', 'whatsapp']"
                 />
               </a>
@@ -47,7 +47,7 @@
             <li>
               <a href="https://g.page/americalobo?share">
                 <font-awesome-icon
-                  class="text-3xl text-mint hover:text-red-500"
+                  class="text-3xl text-purple hover:text-red-500"
                   :icon="['fas', 'location-dot']"
                 />
               </a>
@@ -55,7 +55,7 @@
             <li>
               <a href="mailto:ventas@americalobochef.com">
                 <font-awesome-icon
-                  class="text-3xl text-mint hover:text-red-500"
+                  class="text-3xl text-purple hover:text-red-500"
                   :icon="['fas', 'envelope']"
                 />
               </a>
